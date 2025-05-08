@@ -75,7 +75,7 @@ function Home() {
 
   return (
     <div className="mt-5 pt-5 ml-5 mr-5 relative">
-      <h1 className="text-[26pt] font-bold flex justify-center z-30">Welcome to Website For Process Scheduling</h1>
+      <h1 className="text-[26pt] font-bold flex justify-center z-30">Welcome UUU to Website For Process Scheduling</h1>
 
       <div className="mt-5 h-[50vh] flex justify-between items-center z-30">
         <div className="w-[50%] h-[100%] rounded-[1rem] bg-[#FFFFFF] flex flex-col p-8 justify-around">
